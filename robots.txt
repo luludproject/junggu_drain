@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gwangjin.the-drain.com/sitemap.xml
+Sitemap: https://sungdong.the-drain.com/sitemap.xml
