@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gangbuk.the-drain.com/sitemap.xml
+Sitemap: https://seodaemun.the-drain.com/sitemap.xml
