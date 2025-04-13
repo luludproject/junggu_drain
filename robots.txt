@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seodaemun.the-drain.com/sitemap.xml
+Sitemap: https://jungrang.the-drain.com/sitemap.xml
